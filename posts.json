@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "Welcome to my blog!",
+      "content": "This is the first post in my JSON-based blog.",
+      "author": "Admin",
+      "date": "2024-03-05"
+    },
+    {
+        "id": 2,
+        "title": "Welcome back to my blog!",
+        "content": "This is the second post in my JSON-based blog.",
+        "author": "Admin",
+        "date": "2024-03-05"
+      }
+  ]
