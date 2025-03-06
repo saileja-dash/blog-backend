@@ -1,16 +1,16 @@
 [
-    {
-      "id": 1,
-      "title": "Welcome to my blog!",
-      "content": "This is the first post in my JSON-based blog.",
-      "author": "Admin",
-      "date": "2024-03-05"
-    },
-    {
-        "id": 2,
-        "title": "Welcome back to my blog!",
-        "content": "This is the second post in my JSON-based blog.",
-        "author": "Admin",
-        "date": "2024-03-05"
-      }
+  {
+    "id": 1,
+    "title": "The Art of Procrastination – A Masterclass in Doing Nothing",
+    "author": "Anonymous Procrastinator",
+    "date": "2025-02-20",
+    "content": "They say time waits for no one, but I swear it slows down when I have a deadline. As a seasoned procrastinator, I’ve turned the act of 'just five more minutes' into an Olympic sport. My warm-up routine? Scrolling through cat videos while convincing myself they’re 'research.'\n\nThere’s an undeniable thrill in knowing you should be working but choosing to alphabetize your spice rack instead. Did you know paprika comes before pepper? Fascinating. And let’s not forget the sacred ritual of making a to-do list so long that by the time you finish, the day is over. Productivity? Achieved.\n\nExperts suggest breaking tasks into smaller chunks. I prefer breaking them into microscopic particles until they disappear entirely. 'Future Me will handle it,' I whisper, ignoring the fact that Future Me has the work ethic of a sleepy sloth.\n\nBut fear not! When the panic kicks in at 11:59 PM, adrenaline-fueled genius emerges. Suddenly, I type at the speed of light, solving problems with the efficiency of a caffeine-powered superhero.\n\nSo here’s my advice: embrace the chaos. Procrastination may not be efficient, but at least it’s entertaining. Now, excuse me while I 'take a break' for the next three hours."
+  },
+  {
+    "id": 2,
+    "title": "The Great Sock Conspiracy: Where Do They Go?",
+    "author": "A Confused Laundry Enthusiast",
+    "date": "2025-02-20",
+    "content": "It starts innocently enough. You throw a perfectly matched pair of socks into the laundry. But when the cycle ends, one has vanished into the abyss. Was it dissolved by detergent? Kidnapped by the washing machine? Teleported to another dimension? No one knows.\n\nI have theories. Maybe dryers operate as wormholes, sucking socks into an alternate universe where they start new lives as fashionable gloves for tiny aliens. Or perhaps there’s a sock-eating monster living inside every washing machine, thriving on a diet of fabric softener and cotton blends.\n\nThe worst part? You never lose the ugly socks—the ones with holes and questionable stains always survive. But your favorite, most comfortable sock? Gone. Forever. So now you have a drawer full of lonely, mismatched socks, waiting for a reunion that will never happen.\n\nSome people suggest buying only identical socks to avoid this crisis. But where’s the adventure in that? No, I will continue to hold out hope that one day, all my missing socks will return, maybe through a secret portal behind the dryer. Until then, I salute all the brave socks lost to the laundry void. You are gone, but never forgotten."
+  }
   ]
